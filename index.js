@@ -103,6 +103,7 @@ let holDice = () => {
 };
 
 // Events
+document.getElementById("").onclick
 
 btnNew.addEventListener("click", init);
 btnRoll.addEventListener("click", rollDice);
